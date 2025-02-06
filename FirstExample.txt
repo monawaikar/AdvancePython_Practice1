@@ -1,3 +1,0 @@
-This is text file.
-The Repository name is AdvancePython_Practice1.
-Created by Mona Waikar.
